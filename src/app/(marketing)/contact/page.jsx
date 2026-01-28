@@ -1,5 +1,9 @@
 import React from 'react';
 
+export const metadata = {
+  title: "Contact",
+};
+
 const page = () => {
   return (
     <div>
